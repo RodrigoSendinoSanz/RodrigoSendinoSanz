@@ -23,16 +23,15 @@ My interests range from web development to programming. I am also interested in 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTLM5-e535ab?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#)
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTLM5-e535ab?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=e535ab)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#)
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=#F7DF1E)](#)
 
-[![CSS Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=CSS&logoColor=e535ab)](#)
 
 ### M.E.A.N
-[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)
+[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-#47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=#47A248)](#)
 
 [![Express Badge](https://img.shields.io/badge/-Express-e535ab?style=for-the-badge&labelColor=black&logo=express&logoColor=e535ab)](#)
 
@@ -46,15 +45,15 @@ My interests range from web development to programming. I am also interested in 
 
 [![Git Badge](https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab)](#)
 
-[![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=e535ab)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 
 #### Frameworks
 
-[![VSCode Badge](https://img.shields.io/badge/-VScode-e535ab?style=for-the-badge&labelColor=black&logo=vscode&logoColor=e535ab)](#)
+[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual Studio Code-e535ab?style=for-the-badge&labelColor=black&logo=Visual Studio Code&logoColor=e535ab)](#)
 
 [![Eclipse Badge](https://img.shields.io/badge/-eclipse-e535ab?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=e535ab)](#)
 
-[![NetBeans Badge](https://img.shields.io/badge/-NetBeans-e535ab?style=for-the-badge&labelColor=black&logo=netbeans&logoColor=e535ab)](#)
+[![NetBeans Badge](https://img.shields.io/badge/-Apache NetBeans-e535ab?style=for-the-badge&labelColor=black&logo=Apache NetBeans IDE&logoColor=e535ab)](#)
 
 <br />
 <br />
