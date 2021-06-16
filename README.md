@@ -54,7 +54,7 @@ My interests range from web development to programming. I am also interested in 
 
 [![Eclipse Badge](https://img.shields.io/badge/-eclipse-2C2255?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=2C2255)](#)
 
-[![NetBeans Badge](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=ApacheNetBeansIDE&logoColor=1B6AC6)](#)
+[![NetBeans Badge](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&labelColor=white&logo=ApacheNetBeansIDE&logoColor=1B6AC6)](#)
 
 <br />
 <br />
