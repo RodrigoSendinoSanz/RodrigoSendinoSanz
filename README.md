@@ -2,7 +2,7 @@
 
 I'm Rodrigo Sendino Sanz a Full Stack Web Developer and Content Creator on my in my social networks.
 
-I am a web developer, designer, and social media manager currently living in Burgos, España. 
+I am a web developer, designer, and social media manager currently living in Burgos, España.🇪🇸 
 My interests range from web development to programming. I am also interested in design, arts, and technology.
 
 
@@ -10,14 +10,11 @@ My interests range from web development to programming. I am also interested in 
 
 [![Twitter Badge](https://img.shields.io/badge/-@rodrigosendino-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rodrigosendino)](https://twitter.com/rodrigosendino) [![Mail Badge](https://img.shields.io/badge/-RodrigoSendinoSanz-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWkZeTUDucGmgGVMtmaFMag/featured?view_as=subscriber) [![Linkedin Badge](https://img.shields.io/badge/-RodrigoSendinoSanz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sendino-sanz-27a3a0100/) [![Mail Badge](https://img.shields.io/badge/-@rodrigosendinosanz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rodrigosendinosanz) [![Mail Badge](https://img.shields.io/badge/-rodrigosendinosanz-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rodrigosendinosanz@gmail.com)
 
-<!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 👨‍💻 Most used line of code ```sh git commit -m "Initial Commit"```
+- 🤔 I’m looking for new contributions to exciting projects.
 - 📫 How to reach me: rodrigosendinosanz@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.º
+- ⚡ Fun fact: I play games👾♟ and i like paint 🧑‍🎨
 
 ## Top Technologies
 
@@ -55,10 +52,9 @@ My interests range from web development to programming. I am also interested in 
 [![NetBeans Badge](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&labelColor=white&logo=ApacheNetBeansIDE&logoColor=1B6AC6)](#)
 
 <br />
-<br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/linkcv)
 - :email: rodrigosendinosanz@gmail.com
 
 <details>
