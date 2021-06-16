@@ -21,8 +21,6 @@ My interests range from web development to programming. I am also interested in 
 
 ## Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
 [![HTML5 Badge](https://img.shields.io/badge/-HTLM5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#)
 
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#)
@@ -31,6 +29,7 @@ My interests range from web development to programming. I am also interested in 
 
 
 ### M.E.A.N
+
 [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=white&logo=express&logoColor=000000)](#)
@@ -39,7 +38,7 @@ My interests range from web development to programming. I am also interested in 
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 
-
+<hr />
 
 [![MYSQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 
@@ -48,7 +47,6 @@ My interests range from web development to programming. I am also interested in 
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 
 #### Frameworks
-
 
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=white&logo=VisualStudioCode&logoColor=007ACC)](#)
 
@@ -72,7 +70,6 @@ My interests range from web development to programming. I am also interested in 
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers
 
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
