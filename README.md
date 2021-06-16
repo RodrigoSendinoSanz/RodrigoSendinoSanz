@@ -70,6 +70,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 #### Github Stats
 
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigosendinosanz&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosendinosanz&theme=tokyonight&hide_langs_below=1)
 
 
