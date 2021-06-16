@@ -27,9 +27,11 @@ My interests range from web development to programming. I am also interested in 
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTLM5-e535ab?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=e535ab)](#)
 
-[![ANGULAR Badge](https://img.shields.io/badge/-HTLM5-e535ab?style=for-the-badge&labelColor=black&logo=angular&logoColor=e535ab)](#)
+[![ANGULAR Badge](https://img.shields.io/badge/-Angular-e535ab?style=for-the-badge&labelColor=black&logo=angular&logoColor=e535ab)](#)
 
-[![Express Badge](https://img.shields.io/badge/-HTLM5-e535ab?style=for-the-badge&labelColor=black&logo=express&logoColor=e535ab)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-e535ab?style=for-the-badge&labelColor=black&logo=express&logoColor=e535ab)](#)
+
+[![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=e535ab)](#)
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
