@@ -49,11 +49,12 @@ My interests range from web development to programming. I am also interested in 
 
 #### Frameworks
 
-[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&labelColor=white&logo=Visual Studio Code&logoColor=007ACC)](#)
+
+[![Visual Studio Code Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=white&logo=VisualStudioCode&logoColor=007ACC)](#)
 
 [![Eclipse Badge](https://img.shields.io/badge/-eclipse-2C2255?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=2C2255)](#)
 
-[![NetBeans Badge](https://img.shields.io/badge/-Apache NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=Apache NetBeans IDE&logoColor=1B6AC6)](#)
+[![NetBeans Badge](https://img.shields.io/badge/-ApacheNetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=ApacheNetBeansIDE&logoColor=1B6AC6)](#)
 
 <br />
 <br />
