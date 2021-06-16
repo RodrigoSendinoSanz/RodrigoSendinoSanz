@@ -56,11 +56,6 @@ My interests range from web development to programming. I am also interested in 
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: rodrigosendinosanz@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=             .rodrigosendino)
-
 <details>
 <summary>
   More stuff about me
@@ -77,5 +72,3 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=rodrigosendinosanz&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
