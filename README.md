@@ -23,7 +23,7 @@ My interests range from web development to programming. I am also interested in 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTLM5-e535ab?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTLM5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#)
 
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#)
 
@@ -31,29 +31,29 @@ My interests range from web development to programming. I am also interested in 
 
 
 ### M.E.A.N
-[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-#47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=#47A248)](#)
+[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 
-[![Express Badge](https://img.shields.io/badge/-Express-e535ab?style=for-the-badge&labelColor=black&logo=express&logoColor=e535ab)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=000000)](#)
 
-[![ANGULAR Badge](https://img.shields.io/badge/-Angular-e535ab?style=for-the-badge&labelColor=black&logo=angular&logoColor=e535ab)](#)
+[![ANGULAR Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)
 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 
 
 
-[![MYSQL Badge](https://img.shields.io/badge/-MySQL-e535ab?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e535ab)](#)
+[![MYSQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 
-[![Git Badge](https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 
-[![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 
 #### Frameworks
 
-[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual Studio Code-e535ab?style=for-the-badge&labelColor=black&logo=Visual Studio Code&logoColor=e535ab)](#)
+[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&labelColor=white&logo=Visual Studio Code&logoColor=007ACC)](#)
 
-[![Eclipse Badge](https://img.shields.io/badge/-eclipse-e535ab?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=e535ab)](#)
+[![Eclipse Badge](https://img.shields.io/badge/-eclipse-2C2255?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=2C2255)](#)
 
-[![NetBeans Badge](https://img.shields.io/badge/-Apache NetBeans-e535ab?style=for-the-badge&labelColor=black&logo=Apache NetBeans IDE&logoColor=e535ab)](#)
+[![NetBeans Badge](https://img.shields.io/badge/-Apache NetBeans-1B6AC6?style=for-the-badge&labelColor=black&logo=Apache NetBeans IDE&logoColor=1B6AC6)](#)
 
 <br />
 <br />
