@@ -19,7 +19,7 @@ My interests range from web development to programming. I am also interested in 
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.º
 
-#### Top Technologies
+## Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -27,37 +27,34 @@ My interests range from web development to programming. I am also interested in 
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTLM5-e535ab?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=e535ab)](#)
 
-[![ANGULAR Badge](https://img.shields.io/badge/-Angular-e535ab?style=for-the-badge&labelColor=black&logo=angular&logoColor=e535ab)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+
+[![CSS Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=CSS&logoColor=e535ab)](#)
+
+### M.E.A.N
+[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)
 
 [![Express Badge](https://img.shields.io/badge/-Express-e535ab?style=for-the-badge&labelColor=black&logo=express&logoColor=e535ab)](#)
 
-[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)
+[![ANGULAR Badge](https://img.shields.io/badge/-Angular-e535ab?style=for-the-badge&labelColor=black&logo=angular&logoColor=e535ab)](#)
+
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+
+
+[![MYSQL Badge](https://img.shields.io/badge/-MySQL-e535ab?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e535ab)](#)
+
+[![Git Badge](https://img.shields.io/badge/-Git-e535ab?style=for-the-badge&labelColor=black&logo=git&logoColor=e535ab)](#)
 
 [![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=black&logo=java&logoColor=e535ab)](#)
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+#### Frameworks
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+[![VSCode Badge](https://img.shields.io/badge/-VScode-e535ab?style=for-the-badge&labelColor=black&logo=vscode&logoColor=e535ab)](#)
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
+[![Eclipse Badge](https://img.shields.io/badge/-eclipse-e535ab?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=e535ab)](#)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+[![NetBeans Badge](https://img.shields.io/badge/-NetBeans-e535ab?style=for-the-badge&labelColor=black&logo=netbeans&logoColor=e535ab)](#)
 
 <br />
 <br />
