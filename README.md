@@ -37,11 +37,11 @@ My interests range from web development to programming. I am also interested in 
 
 <hr />
 
-[![MYSQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![MYSQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=white&logo=mysql&logoColor=4479A1)](#)
 
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032)](#)
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=white&logo=java&logoColor=007396)](#)
 
 #### Frameworks
 
