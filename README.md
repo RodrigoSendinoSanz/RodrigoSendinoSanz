@@ -54,7 +54,7 @@ My interests range from web development to programming. I am also interested in 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/linkcv)
+- :paperclip: [My Resume/CV](https://github.com/RodrigoSendinoSanz/RodrigoSendinoSanz/blob/main/CV-RodrigoSendinoSanz.pdf)
 - :email: rodrigosendinosanz@gmail.com
 
 <details>
