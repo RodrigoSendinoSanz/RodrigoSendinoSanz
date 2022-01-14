@@ -73,5 +73,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosendinosanz&theme=tokyonight&hide_langs_below=1)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
   
 </details>
