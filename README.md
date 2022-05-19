@@ -24,11 +24,11 @@ My interests range from web development to programming. I am also interested in 
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=#F7DF1E)](#)
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=F7DF1E)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=E34F26)](#)
 
 [![Spring Badge](https://img.shields.io/badge/-Spring-47A248?style=for-the-badge&labelColor=black&logo=spring&logoColor=47A248)](#)
 
-[![HubSpot Badge](https://img.shields.io/badge/-HubSpot-F7DF1E?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=F7DF1E)](#)
+[![HubSpot Badge](https://img.shields.io/badge/-HubSpot-F7DF1E?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=E34F26)](#)
 
 ### M.E.A.N
 
