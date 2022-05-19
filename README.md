@@ -2,7 +2,7 @@
 
 I'm Rodrigo Sendino Sanz a Full Stack Web Developer and Content Creator on my in my social networks.
 
-I am a web developer, designer, and social media manager currently living in Burgos, España.
+I am a web developer, designer, and social media manager currently living in Madrid, España.
 My interests range from web development to programming. I am also interested in design, arts, and technology.
 
 
