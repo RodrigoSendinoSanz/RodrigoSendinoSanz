@@ -24,7 +24,7 @@ My interests range from web development to programming. I am also interested in 
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=#F7DF1E)](#)
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=white&logo=java&logoColor=007396)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 
 [![Spring Badge](https://img.shields.io/badge/-Spring-47A248?style=for-the-badge&labelColor=black&logo=spring&logoColor=47A248)](#)
 
