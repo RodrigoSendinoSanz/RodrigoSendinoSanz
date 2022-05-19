@@ -34,8 +34,7 @@ My interests range from web development to programming. I am also interested in 
 
 [![Mongodb Badge](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 
-[![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=white&logo=express&logoColor=000000](#)
-[![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=white&logo=express&logoColor=000000](#)
+[![Express Badge](https://img.shields.io/badge/-Express-47A248?style=for-the-badge&labelColor=white&logo=express&logoColor=47A248](#)
 
 [![ANGULAR Badge](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=dd0031)](#)
 
