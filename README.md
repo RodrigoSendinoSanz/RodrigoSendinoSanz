@@ -1,4 +1,4 @@
-## Hello I'm Rodrigo Sendino Sanz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12" alt="hi">
+## Hello I'm Rodrigo Sendino Sanz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" alt="hi">
 
 I'm Rodrigo Sendino Sanz a Full Stack Web Developer and Content Creator on my in my social networks.
 
