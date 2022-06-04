@@ -46,7 +46,7 @@ My interests range from web development to programming. I am also interested in 
 
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=white&logo=git&logoColor=F05032)](#)
 
-#### Frameworks
+#### IDE's
 
 [![Visual Studio Code Badge](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&labelColor=white&logo=VisualStudioCode&logoColor=007ACC)](#)
 
