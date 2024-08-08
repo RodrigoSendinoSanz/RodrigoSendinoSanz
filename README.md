@@ -18,7 +18,7 @@ My interests range from web development to programming. I am also interested in 
 
 ## Top Technologies
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=white&logo=java&logoColor=E34F26)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=white&logo=java&logoColor=E34F26](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTLM5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#)
 
