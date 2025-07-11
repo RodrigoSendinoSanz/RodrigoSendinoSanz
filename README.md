@@ -129,15 +129,13 @@ Apasionado por el desarrollo web moderno y el diseño intuitivo. Combino la prog
 
 ---
 
-### 🐍 Snake‑graph divertido
+### 🐍 Snake‑graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="output/github-contribution-grid-snake.svg" />
 </picture>
-
-_Este gráfico requiere configurar una GitHub Action (Platane/snk) para generar las imágenes diariamente._ :contentReference[oaicite:1]{index=1}
 
 ---
 
