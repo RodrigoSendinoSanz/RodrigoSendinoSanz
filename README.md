@@ -144,6 +144,3 @@ Apasionado por el desarrollo web moderno y el diseño intuitivo. Combino la prog
 ![Profile Views](https://komarev.com/ghpvc/?username=RodrigoSendinoSanz&style=flat-square)
 
 ---
-
-¡Listo! Este README combina tu biografía, tus badges y secciones visuales e interactivas, sin depender de WakaTime. Si quieres, puedo ayudarte también con la acción para el "snake graph" o cualquier personalización adicional 😊
-::contentReference[oaicite:2]{index=2}
